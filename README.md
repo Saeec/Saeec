@@ -10,7 +10,7 @@
 - 💬 Ask me about **react,ML,SQL**
 
 - 📫 How to reach me **saee20102005@gmail.com**
--  ![image](https://github.com/user-attachments/assets/60f2fe0c-12cb-4a76-8e78-0491704920ce)
+-  
  Github Profile **https://github.com/Saeec**
 
 
